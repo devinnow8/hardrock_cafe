@@ -3,13 +3,11 @@ function Cartitem() {
   return (
     <div>
       <div>Cartitem</div>
-      <div classname="product-info">
-       
-      </div>
-      <div className="title">
-      <h2> Burger</h2>
-      <h3> Best in town</h3>
-      
+        <div className="product-info">
+        </div>
+        <div className="title">
+        <h2> Burger</h2>
+        <h3> Best in town</h3>
       </div>
     </div>
   );
