@@ -1,0 +1,12 @@
+.contact{
+  text-align: left;
+
+}
+.wraper{
+ margin: 0  5%;
+}
+.top{
+  display:flex;
+  justify-content: space-between;
+  
+}
