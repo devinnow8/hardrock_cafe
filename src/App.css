@@ -1,12 +1,41 @@
-.contact{
+.contact {
   text-align: left;
-
 }
-.wraper{
- margin: 0  5%;
+.wraper {
+  margin: 0 5%;
 }
-.top{
-  display:flex;
+.top {
+  display: flex;
   justify-content: space-between;
-  
+}
+.title {
+  display: flex;
+}
+.PlusMinus {
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 4px;
+}
+.Textcenter {
+  text-align: center;
+}
+.count {
+  width: 100%;
+  max-width: 30px;
+  text-align: center;
+  margin: 0px 10px;
+}
+.middle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.product-info {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden;
 }
