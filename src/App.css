@@ -1,3 +1,5 @@
+@import url(../src/assets/style/style.css);
+
 .contact {
   text-align: left;
 }
@@ -39,3 +41,5 @@
   border-radius: 50%;
   overflow: hidden;
 }
+  
+
